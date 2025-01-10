@@ -58,9 +58,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EncryptedHelloKitty/EncryptedHelloKitty/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYxMHVtYWQ3cmJmaHdkZW11azF3djU2OThxMjNrY2gzNHprZHppaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy.webp"  />
+</div>
 
 ###
 
