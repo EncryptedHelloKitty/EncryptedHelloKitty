@@ -1,71 +1,166 @@
-<h1 align="center">Arindam Singh</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQExVTq-T_IxSg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736532242141?e=1747267200&v=beta&t=Tx4krMwGN2dFZxjZT0wBCjYtLwACULifVXb3yslFivU"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EncryptedHelloKitty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EncryptedHelloKitty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+```
+                ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+                
+                 █████╗ ██████╗ ██╗███╗   ██╗██████╗  █████╗ ███╗   ███╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+                ██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗██╔══██╗████╗ ████║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+                ███████║██████╔╝██║██╔██╗ ██║██║  ██║███████║██╔████╔██║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
+                ██╔══██║██╔══██╗██║██║╚██╗██║██║  ██║██╔══██║██║╚██╔╝██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+                ██║  ██║██║  ██║██║██║ ╚████║██████╔╝██║  ██║██║ ╚═╝ ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+                ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+                
+                ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  
+### `> whoami`
+
 </div>
 
-###
+```console
+root@github:~# cat /home/arindam/profile.txt
+┌────────────────────────────────────────────┐
+│ Name      : Arindam Singh                  │
+│ Role      : Cybersecurity Student          │
+│ Focus     : Security Analysis & Pentesting │
+│ Status    : Learning & Building            │
+└────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/encrypted-hellokitty/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+**`Cybersecurity Student | Aspiring Security Analyst & Penetration Tester`**
+
 </div>
 
-###
+---
+
+### `> ls -la /skills`
+
+```bash
+# Core Competencies
+[EXEC] web_vapt                    :: OWASP • Burp • SQLi • XSS
+[EXEC] network_security            :: TCP/IP • Nmap • Firewalls
+[EXEC] mobile_security             :: Android • APK • Frida
+[EXEC] soc_fundamentals            :: SIEM • Logs • Alerts
+
+# Added Core Skills
+[EXEC] linux_fundamentals          :: CLI • Permissions • Processes
+[EXEC] penetration_testing         :: Recon • Exploitation • Reporting
+[EXEC] vulnerability_assessment    :: CVE • CVSS • Risk
+[EXEC] threat_analysis             :: TTPs • MITRE ATT&CK
+[EXEC] incident_response           :: Detection • Containment
+[EXEC] osint                       :: Recon • Footprinting
+[EXEC] scripting_basics            :: Bash • Python
+
+```
 
 <div align="center">
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif?raw=true"/>
+
+#### **Arsenal**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Reconnaissance & Scanning
+`Nmap` • `OpenVAS` • `Nessus` • `Wireshark`
+
+### Web Application Testing
+`Burp Suite` • `OWASP ZAP` • `SQLMap` • `Nikto`
+
+### Frameworks & Methodologies
+`OWASP Top 10` • `Vulnerability Assessment` • `Penetration Testing` • `MITRE ATT&CK`
+
+### Network & Protocol Analysis
+`TCP/IP` • `DNS` • `HTTP/HTTPS` • `ARP` • `ICMP`
+
+### Mobile Security
+`APK Analysis` • `ADB` • `Frida` • `MobSF`
+
+### SOC & Blue Team
+`SIEM` • `Splunk` • `ELK Stack` • `Wazuh`
+
+### Digital Forensics
+`Autopsy` • `Volatility` • `FTK Imager` • `ExifTool`
+
+### Exploitation & Post-Exploitation
+`Metasploit` • `Privilege Escalation` • `Payloads` • `Persistence`
+
+### OSINT & Threat Intelligence
+`Maltego` • `theHarvester` • `Shodan` • `Censys`
+
+### Scripting & Automation
+`Bash` • `Python` • `Regex` • `Automation Scripts`
+
+### Cloud & Container Security
+`AWS Basics` • `IAM` • `Docker` • `Kubernetes`
+
 </div>
 
-###
+---
+
+### `> cat /proc/current_work`
+
+```yaml
+[+] Active Projects:
+    └─ Building a Zero Trust security model for edge computing environments
+    └─ Documenting CTF walkthroughs and writeups
+    └─ Exploring OWASP Top 10 vulnerabilities in real-world scenarios
+    └─ Analyzing Android mobile malware using static & dynamic techniques
+
+[+] Currently Learning:
+    └─ Advanced web exploitation techniques
+    └─ SOC analyst workflows and SIEM tools
+    └─ Cloud security (AWS/Azure)
+
+[+] Certifications in Progress:
+    └─ CEH (Certified Ethical Hacker)
+    └─ CompTIA Security+
+```
+
+---
+
+### `> echo $MOTTO`
+
+```
+                                ┌────────────────────────────────────────────────────────────────┐
+                                │  "Security is not a product, but a process."                   │
+                                │                                        — Bruce Schneier        │
+                                │                                                                │
+                                │  Breaking things ethically (sometimes) to build them stronger. │
+                                └────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `> netstat -connections`
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/EncryptedHelloKitty/count.svg?"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam0singh/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arindamsingh75@gmail.com)
+
 </div>
 
-###
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff00&style=flat-square)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+**`Remember: With great knowledge comes great responsibility.`**  
+*All security research is conducted ethically (maybe) within legal (not sure) boundaries.*
+
+</div>
