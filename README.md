@@ -57,7 +57,7 @@ root@github:~# cat /home/arindam/profile.txt
 
 <div align="center">
 
-#### **Arsenal**
+## **Arsenal**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -148,12 +148,12 @@ root@github:~# cat /home/arindam/profile.txt
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff00&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=EncryptedHelloKitty&color=00ff00&style=flat-square)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedHelloKitty&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
