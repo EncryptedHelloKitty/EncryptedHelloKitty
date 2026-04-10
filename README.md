@@ -23,7 +23,7 @@ root@github:~# cat /home/arindam/profile.txt
 │ Name      : Arindam Singh                  │
 │ Role      : Cybersecurity Student          │
 │ Focus     : Security Analysis & Pentesting │
-│ Status    : Learning &             │
+│ Status    : Learning & Building            │
 └────────────────────────────────────────────┘
 ```
 
