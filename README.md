@@ -94,7 +94,7 @@ root@github:~# cat /home/arindam/profile.txt
 ### Scripting & Automation
 `Bash` • `Python` • `Regex` • `Automation Scripts`
 
-### Cloud & Container Security
+###  & Container Security
 `AWS Basics` • `IAM` • `Docker` • `Kubernetes`
 
 </div>
