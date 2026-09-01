@@ -1,245 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=ARINDAM%20SINGH&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%7C%20Aspiring%20Pentester&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="hellthat'sme.gif" width="380"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40kali%3A~%23+initializing_security_protocols...;root%40kali%3A~%23+scanning_for_vulnerabilities...;root%40kali%3A~%23+access_granted+%E2%9C%93" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:ff8c00,100:0d0d0d&height=170&text=ARINDAM%20SINGH&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Cybersecurity%20%7C%7C%20Offensive%20Security%20%7C%7C%20DRDO%20%2B%20CRIS%20Alum&descAlign=50&descAlignY=70&descColor=ffb347&descSize=14" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=19&duration=2000&pause=1000&color=FF8C00&background=0D0D0D&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Research+Intern+%40+DRDO+Headquarters;%5B%2B%5D+Security+Analyst+Intern+%40+CRIS+(Indian+Railways);%5B%2B%5D+Rank+45%2F9%2C000%2B+%E2%80%94+OffSec+Proving+Grounds;%5B%23%5D+B.Tech+CSE+(Cybersecurity)+%40+Bennett+University" alt="Typing SVG"/>
 
-```
-              ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-              
-               █████╗ ██████╗ ██╗███╗   ██╗██████╗  █████╗ ███╗   ███╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-              ██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗██╔══██╗████╗ ████║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-              ███████║██████╔╝██║██╔██╗ ██║██║  ██║███████║██╔████╔██║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
-              ██╔══██║██╔══██╗██║██║╚██╗██║██║  ██║██╔══██║██║╚██╔╝██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-              ██║  ██║██║  ██║██║██║ ╚████║██████╔╝██║  ██║██║ ╚═╝ ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
-              ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-              
-              ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+&nbsp;
 
-<div align="center">
-  
-### `> whoami`
-
-</div>
-
-```console
-root@github:~# cat /home/arindam/profile.txt
-┌────────────────────────────────────────────┐
-│ Name      : Arindam Singh                  │
-│ Role      : Cybersecurity Student          │
-│ Focus     : Security Analysis & Pentesting │
-│ Status    : Learning & Building            │
-└────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-**`Cybersecurity Student | Aspiring Security Analyst & Penetration Tester`**
-
-<!-- Drop your own terminal-hacking GIF here, e.g. width="450":
-<img src="assets/terminal-demo.gif" width="450"/>
-Record one fast with https://github.com/charmbracelet/vhs (a "VHS tape" script -> GIF), or asciinema + agg. -->
-
-</div>
-
----
-
-### `> ls -la /skills`
-
-```bash
-# Core Competencies
-[EXEC] web_vapt                    :: OWASP • Burp • SQLi • XSS
-[EXEC] network_security            :: TCP/IP • Nmap • Firewalls
-[EXEC] mobile_security             :: Android • APK • Frida
-[EXEC] soc_fundamentals            :: SIEM • Logs • Alerts
-
-# Added Core Skills
-[EXEC] linux_fundamentals          :: CLI • Permissions • Processes
-[EXEC] penetration_testing         :: Recon • Exploitation • Reporting
-[EXEC] vulnerability_assessment    :: CVE • CVSS • Risk
-[EXEC] threat_analysis             :: TTPs • MITRE ATT&CK
-[EXEC] incident_response           :: Detection • Containment
-[EXEC] osint                       :: Recon • Footprinting
-[EXEC] scripting_basics            :: Bash • Python
-
-```
-
-<div align="center">
-
-## **Arsenal**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8c00?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/arindam0singh/)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff8c00)](mailto:arindamsingh75@gmail.com)
+[![Website](https://img.shields.io/badge/arindamsingh.in-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff8c00)](https://arindamsingh.in)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff8c00)](https://github.com/arindam0singh)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,aws,wireshark,git&theme=dark" />
+## 👤 About
 
-### Reconnaissance & Scanning
-`Nmap` • `OpenVAS` • `Nessus` • `Wireshark`
-
-### Web Application Testing
-`Burp Suite` • `OWASP ZAP` • `SQLMap` • `Nikto`
-
-### Frameworks & Methodologies
-`OWASP Top 10` • `Vulnerability Assessment` • `Penetration Testing` • `MITRE ATT&CK`
-
-### Network & Protocol Analysis
-`TCP/IP` • `DNS` • `HTTP/HTTPS` • `ARP` • `ICMP`
-
-### Mobile Security
-`APK Analysis` • `ADB` • `Frida` • `MobSF`
-
-### SOC & Blue Team
-`SIEM` • `Splunk` • `ELK Stack` • `Wazuh`
-
-### Digital Forensics
-`Autopsy` • `Volatility` • `FTK Imager` • `ExifTool`
-
-### Exploitation & Post-Exploitation
-`Metasploit` • `Privilege Escalation` • `Payloads` • `Persistence`
-
-### OSINT & Threat Intelligence
-`Maltego` • `theHarvester` • `Shodan` • `Censys`
-
-### Scripting & Automation
-`Bash` • `Python` • `Regex` • `Automation Scripts`
-
-### Cloud & Container Security
-`AWS Basics` • `IAM` • `Docker` • `Kubernetes`
-
-</div>
-
----
-
-### `> cat /proc/current_work`
+<table>
+<tr><td>
 
 ```yaml
-[+] Active Projects:
-    └─ Building a Zero Trust security model for edge computing environments
-    └─ Documenting CTF walkthroughs and writeups
-    └─ Exploring OWASP Top 10 vulnerabilities in real-world scenarios
-    └─ Analyzing Android mobile malware using static & dynamic techniques
-
-[+] Currently Learning:
-    └─ Advanced web exploitation techniques
-    └─ SOC analyst workflows and SIEM tools
-    └─ Cloud security (AWS/Azure)
-
-[+] Certifications in Progress:
-    └─ CEH (Certified Ethical Hacker)
-    └─ CompTIA Security+
+education:   B.Tech CSE (Cybersecurity), Bennett University — 2023 to 2027 (Expected)
+focus:       Offensive Security · Vulnerability Assessment & Penetration Testing
+past_work:   DRDO Headquarters (Ministry of Defence)  ·  CRIS (Indian Railways)
+achievement: Global Rank 45/9,000+ — OffSec Proving Grounds: The Gauntlet, Echo Response
+status:      🟠 open to cybersecurity internships & research roles
 ```
 
----
+</td></tr>
+</table>
 
-<div align="center">
+<br/>
 
-### `> ./generate_stats.sh --target=EncryptedHelloKitty`
+## 💼 Experience
 
-<img src="https://github-readme-stats.vercel.app/api?username=EncryptedHelloKitty&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedHelloKitty&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="42%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedHelloKitty&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
+**Research Intern**
+<br/><sub>DRDO Headquarters · Ministry of Defence · Jun–Aug 2026</sub>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EncryptedHelloKitty&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+- Cybersecurity research for DRDO's Directorate of Planning & Coordination
+- Legacy glyph-encoded Devanagari recovery pipeline for defence archives
+- Fine-tuned a byte-level neural model for code-mixed sequence normalization
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+**Cybersecurity Analyst Intern**
+<br/><sub>CRIS · Indian Railways · Jun–Aug 2025</sub>
 
-<div align="center">
+- VAPT of railway applications (incl. e-DRISTI) — SQLi, XSS, weak auth
+- Found session-duplication vulnerabilities in IRCTC services
+- Log analysis & IOC documentation; firewall & server hardening with ISG
 
-### `> ./render_contribution_snake.sh`
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/EncryptedHelloKitty/EncryptedHelloKitty/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+<br/>
 
-<sub>⚠ animated snake requires the workflow below running once in your `EncryptedHelloKitty/EncryptedHelloKitty` repo</sub>
+## 🏆 Certifications
 
-</div>
+<table>
+<tr><td align="center">CEH v13</td><td align="center">TryHackMe SEC1</td><td align="center">TryHackMe SEC0</td><td align="center">Google Cybersecurity Professional</td></tr>
+<tr><td align="center"><sub>EC-Council</sub></td><td align="center"><sub>Cyber Security 101</sub></td><td align="center"><sub>Pre Security</sub></td><td align="center"><sub>Google</sub></td></tr>
+</table>
 
-<details>
-<summary><code>.github/workflows/snake.yml</code> (click to expand setup)</summary>
+<br/>
 
-```yaml
-name: generate snake
+## 🛠️ Projects
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
+<table>
+<tr><td>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+**MALSIS-CVE** — AI-Assisted Malware Behavior Analysis Platform
+<br/>Cuckoo Sandbox + MITRE ATT&CK + NVD CVE pipeline; TF-IDF mapping of 200+ IOCs to ATT&CK techniques, cutting manual correlation time by 80%.
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+</td></tr>
+<tr><td>
 
-</details>
+**SecureAPI Scanner** — API Security Assessment Platform
+<br/>FastAPI platform with 3 scanning workflows and 9 vulnerability detection modules (SQLi, IDOR/BOLA, Broken Auth, SSRF, Command Injection, CORS, Mass Assignment).
 
----
+</td></tr>
+<tr><td>
 
-### `> echo $MOTTO`
+**FinRisk-GRC** — Fintech Risk Assessment & Control Mapping
+<br/>NIST SP 800-30 risk assessment for a simulated AWS fintech SaaS environment; 14-risk register mapped to ISO 27001:2022 Annex A and NIST CSF 2.0.
 
-```
-                                ┌────────────────────────────────────────────────────────────────┐
-                                │  "Security is not a product, but a process."                   │
-                                │                                        — Bruce Schneier        │
-                                │                                                                │
-                                │  Breaking things ethically (sometimes) to build them stronger. │
-                                └────────────────────────────────────────────────────────────────┘
-```
+</td></tr>
+</table>
 
----
+<br/>
 
-### `> netstat -connections`
+## 🧰 Skills
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,java,linux,windows,git,docker&theme=dark" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam0singh/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arindamsingh75@gmail.com)
+<br/><br/>
 
-</div>
+<table>
+<tr><td><b>🛡️ Security Ops</b></td><td>Threat Detection · Incident Response · Log Analysis · IDS/IPS · IOC Analysis · Malware Analysis · MITRE ATT&CK · Wireshark · Nessus</td></tr>
+<tr><td><b>⚔️ Offensive Security</b></td><td>Web & API Testing · OWASP Top 10 · Burp Suite · Nmap · Metasploit · SQLMap · Gobuster · Kali Linux</td></tr>
+<tr><td><b>📋 GRC & Programming</b></td><td>NIST CSF 2.0 · Control Mapping · Audit Evidence · Python · Bash · C++ · Java · TCP/IP · Linux · Windows</td></tr>
+</table>
 
----
+<br/>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=EncryptedHelloKitty&color=ff8c00&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=EncryptedHelloKitty&color=00ff00&style=flat-square)
+<br/><br/>
 
-</div>
+> *"Security is not a product, but a process."* — Bruce Schneier
+> <br/>All testing conducted ethically, with authorization, and within legal scope.
 
----
-
-<div align="center">
-
-**`Remember: With great knowledge comes great responsibility.`**  
-*All security research is conducted ethically (maybe) within legal (not sure) boundaries.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:ff8c00,100:0d0d0d&height=90&section=footer" width="100%"/>
 
 </div>
