@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=ARINDAM%20SINGH&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%7C%20Aspiring%20Pentester&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40kali%3A~%23+initializing_security_protocols...;root%40kali%3A~%23+scanning_for_vulnerabilities...;root%40kali%3A~%23+access_granted+%E2%9C%93" alt="Typing SVG" />
+
+</div>
+
 ```
               ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
               
@@ -31,6 +39,10 @@ root@github:~# cat /home/arindam/profile.txt
 
 **`Cybersecurity Student | Aspiring Security Analyst & Penetration Tester`**
 
+<!-- Drop your own terminal-hacking GIF here, e.g. width="450":
+<img src="assets/terminal-demo.gif" width="450"/>
+Record one fast with https://github.com/charmbracelet/vhs (a "VHS tape" script -> GIF), or asciinema + agg. -->
+
 </div>
 
 ---
@@ -63,6 +75,11 @@ root@github:~# cat /home/arindam/profile.txt
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,aws,wireshark,git&theme=dark" />
 
 ### Reconnaissance & Scanning
 `Nmap` • `OpenVAS` • `Nessus` • `Wireshark`
@@ -122,6 +139,70 @@ root@github:~# cat /home/arindam/profile.txt
 
 ---
 
+<div align="center">
+
+### `> ./generate_stats.sh --target=EncryptedHelloKitty`
+
+<img src="https://github-readme-stats.vercel.app/api?username=EncryptedHelloKitty&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedHelloKitty&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="42%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedHelloKitty&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=EncryptedHelloKitty&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> ./render_contribution_snake.sh`
+
+<img src="https://raw.githubusercontent.com/EncryptedHelloKitty/EncryptedHelloKitty/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+
+<sub>⚠ animated snake requires the workflow below running once in your `EncryptedHelloKitty/EncryptedHelloKitty` repo</sub>
+
+</div>
+
+<details>
+<summary><code>.github/workflows/snake.yml</code> (click to expand setup)</summary>
+
+```yaml
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ### `> echo $MOTTO`
 
 ```
@@ -152,15 +233,13 @@ root@github:~# cat /home/arindam/profile.txt
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedHelloKitty&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0d1117" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
 
 **`Remember: With great knowledge comes great responsibility.`**  
 *All security research is conducted ethically (maybe) within legal (not sure) boundaries.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
